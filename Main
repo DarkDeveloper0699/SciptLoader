@@ -1,0 +1,40 @@
+ -- Change place ids 
+ -- print(game.PlaceId)
+
+--Phantom forces
+if game.PlaceId == 5985232436 then
+	loadstring(game:HttpGet("https://ghostbin.com/rgZYA/raw", true))()
+
+else
+
+
+--Arsenal
+	if game.PlaceId == 594511841 then
+		loadstring(game:HttpGet("https://ghostbin.com/MZYWK/raw", true))()
+	else
+
+
+--VoxelCraft
+		if game.PlaceId == 115917693 then
+			loadstring(game:HttpGet("https://ghostbin.com/v2saO/raw", true))()
+		else
+    
+    
+-- Bitcoin Miner
+			if game.PlaceId == 1537690962 then
+				loadstring(game:HttpGet("https://ghostbin.com/dDGr7/raw", true))()
+			else
+                
+ 
+ -- jailbreak 
+				if game.PlaceId == 155615604 then
+					loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Jailbreak/Jailbreak"))()
+				
+					else
+						game.Players.LocalPlayer:Kick("Game not found in database.")
+					end
+				end
+			end
+		end
+	end
+end
