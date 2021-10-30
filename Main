@@ -1,5 +1,7 @@
- -- Change place ids 
- -- print(game.PlaceId)
+-- To do
+
+-- Change place ids 
+-- print(game.PlaceId)
 
 --Phantom forces
 if game.PlaceId == 5985232436 then
