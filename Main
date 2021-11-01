@@ -2,7 +2,7 @@
 
 -- Change place ids 
 -- print(game.PlaceId)
--- remove bottom 2 
+
 --Phantom forces
 if game.PlaceId == 292439477 then
     loadstring(game:HttpGet("https://ghostbin.com/lj7nO/raw", true))()
